@@ -10,29 +10,28 @@ A continuación se muestra diferentes Dashsboards construidos en Power BI:
 
 En el siguiente Dashboard se analiza las utilidades y margen de contribución de la empresa “Appol”  a nivel continental, con el fin de proporcionar información precisa de su comportamiento e intentar dar respuesta a las siguientes preguntas.
 
-¿Qué continente aporta las mayores utilidades en Appol?
-¿Qué productos son más importantes para el negocio?
-¿Cuál es el comportamiento del margen de contribución a lo largo del periodo analizado?
+- ¿Qué estados tienen mayor volumen de ventas?
+- ¿Qué categorías de productos representan las mayores utilidades para el negocio?
+- ¿Cómo han evolucionado las utilidades a lo largo del periodo?
+
 
 Puede consultar el tablero dinámico para realizar su propia exploración en el siguiente enlace: 
-https://app.powerbi.com/view?r=eyJrIjoiMWEwMWMxNzYtNmFlOS00Y2MzLTljYjctNmMwNDkzMmQyZWZhIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiY2IyYWE5NjMtNGJlMi00YmY0LThhYzAtNzI2YTcxNzdiMzkzIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9
 
-Conclusiones y Hallazgos Importantes
+![image](https://user-images.githubusercontent.com/105448434/171730548-d8e03ce9-6cf4-4e13-b47f-fe5422db8281.png)
 
-Los estados de California y New York representan aproximadamente el 33% de las ventas totales.
-Entre las categorías Telefonos, Sillas, Almacenamiento y Mesas se configuran el 47% de las ventas.
-Se logra visualizar un crecimiento en cada uno de los años a partir de 2016.
+![image](https://user-images.githubusercontent.com/105448434/171729163-3a3bc68c-82e2-4b62-8820-feafc3ef8213.png)
+![image](https://user-images.githubusercontent.com/105448434/171730775-f63393db-1ac8-45e8-b59f-d2745d566fa0.png)
 
-En el siguiente Dashboard comportamiento de sus ventas, es por ello que se desarrolla el presente tablero en donde se intenta dar respuesta a las preguntas de negocio más importantes para está empresa, cómo lo son:
 
-¿Qué estados tienen mayor volumen de ventas?
-¿Qué categorías son más importantes para el negocio?
-¿Cómo han evolucionado las ventas a lo largo de los años de operación?
-ecommerce
+**Conclusiones**
 
-Conclusiones y Hallazgos Importantes
+Los continentes de America y Asia representan el 39% y 35% respectivamente de las utilidades totales generadas por Appol.
+Los productos relacionados con PC, música, Aplicaciones representan el 67% de las utilidades de la empresa, sin embargo cabe resaltar que el desarrollo de aplicaciones es el que otorga el mayor margen de contribución siendo del 37,5%.
+Por otra parte, el comportamiento de las utilidades a lo largo del periodo ha sido incremental en todos los continentes, exceptuando a Asia el cual disminuyo sus utilidades en un 7.4% respecto al año 2018, se debe analizar las posibles causas de la disminución, ya que el mercado asiático es de gran relevancia para la compañia.
 
-Los estados de California y New York representan aproximadamente el 33% de las ventas totales.
-Entre las categorías Telefonos, Sillas, Almacenamiento y Mesas se configuran el 47% de las ventas.
-Se logra visualizar un crecimiento en cada uno de los años a partir de 2016.
+
+
+
+
 
