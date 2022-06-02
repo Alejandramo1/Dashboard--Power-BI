@@ -1,4 +1,4 @@
-# Dashboard--Power-BI
+# Visualización de datos--Power-BI
 
 **Importancia de la visualización de datos**
 
