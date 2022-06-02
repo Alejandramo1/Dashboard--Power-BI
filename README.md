@@ -14,7 +14,8 @@ En el siguiente Dashboard se analiza las utilidades y margen de contribución de
 ¿Qué productos son más importantes para el negocio?
 ¿Cuál es el comportamiento del margen de contribución a lo largo del periodo analizado?
 
-Puede consultar el tablero dinámico para realizar su propia exploración en el siguiente enlace: https://app.powerbi.com/viewr=eyJrIjoiMWEwMWMxNzYtNmFlOS00Y2MzLTljYjctNmMwNDkzMmQyZWZhIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9 
+Puede consultar el tablero dinámico para realizar su propia exploración en el siguiente enlace: 
+https://app.powerbi.com/view?r=eyJrIjoiMWEwMWMxNzYtNmFlOS00Y2MzLTljYjctNmMwNDkzMmQyZWZhIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9
 
 Conclusiones y Hallazgos Importantes
 
